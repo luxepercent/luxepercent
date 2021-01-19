@@ -1,4 +1,4 @@
-### Welcome  👋
+### 
 
 <p align=center><img align="center" alt="gif" src=https://media.tenor.com/images/2d5403ea3104c18a3e5159a6296af1cc/tenor.gif>
 
