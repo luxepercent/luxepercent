@@ -1,4 +1,4 @@
-<p align=center><img align="center" alt="gif" src=https://media.tenor.com/images/2d5403ea3104c18a3e5159a6296af1cc/tenor.gif>
+<p align=center><img align="center" alt="gif" src=https://i.pinimg.com/originals/75/55/2b/75552b1274220a2ece951aa79a5cbc01.gif>
 
 My name is  **Ana Flavia** 👩🏻‍💻 and I am from Brazil. I’m a Graduate Student  📚  **Systems Analysis and Development**, focused on the  **Front-End Development**. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team, bringing forth a motivated attitude and a variety of powerful skills. Adept in various social media platforms and technology programs.
 
