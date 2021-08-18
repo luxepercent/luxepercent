@@ -4,7 +4,7 @@ My name is  **Ana Flavia** 👩🏻‍💻 and I am from Brazil. I’m a Graduat
 
 🌱  I’m currently learning about:
 
-HTML, CSS, JavaScript, AngularJS, jQuery, Node.js, React, UI Design & UX Experience.
+HTML, CSS, JavaScript, React, UI Design & UX Experience.
 
 🎮  I’m a Playstation addicted! Found me on PSN:
 
