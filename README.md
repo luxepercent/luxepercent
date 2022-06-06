@@ -6,9 +6,9 @@ My name is  **Ana Flavia** 👩🏻‍💻 and I am from Brazil. I’m a Graduat
 
 HTML, CSS, JavaScript, React, UI Design & UX Experience.
 
-🎮  I’m a Playstation addicted! Found me on PSN:
+🎮  I’m a Playstation addicted!
 
-luxe-percent
+PSN: luxe-percent
 
 <!--
 **luxepercent/luxepercent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
